@@ -1,0 +1,254 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The last nevves from Yorke and Hull. Or A true relation of all the passages and other occurrences that hath happened in and about the city of Yorke, and the towne of Hull from the twenty sixth of Iune, to the third of Iuly. Being the copy of a letter sent from a merchant of York, to a private friend in London, the fourth of Iuly. 1642. As also the execution of a Jesuite at Yorke, by the Kings command. And the copie of a letter sent to Master William Crofts at the Hague, intercepted by a ship in service under His Majestie. Hen. Elsyng. Cler. Parl.</title>
+            <author>T. H. (Merchant of York)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86178</idno>
+            <idno type="STC">Wing H138</idno>
+            <idno type="STC">Thomason E154_23</idno>
+            <idno type="STC">ESTC R19899</idno>
+            <idno type="EEBO-CITATION">99860769</idno>
+            <idno type="PROQUEST">99860769</idno>
+            <idno type="VID">112894</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86178)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112894)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 27:E154[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The last nevves from Yorke and Hull. Or A true relation of all the passages and other occurrences that hath happened in and about the city of Yorke, and the towne of Hull from the twenty sixth of Iune, to the third of Iuly. Being the copy of a letter sent from a merchant of York, to a private friend in London, the fourth of Iuly. 1642. As also the execution of a Jesuite at Yorke, by the Kings command. And the copie of a letter sent to Master William Crofts at the Hague, intercepted by a ship in service under His Majestie. Hen. Elsyng. Cler. Parl.</title>
+                  <author>T. H. (Merchant of York)</author>
+                  <author>Rochester, Henry Wilmot, Earl of, 1612?-1658.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed fo [sic] M.T.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Iuly 7. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>First letter signed : T. H.</note>
+                  <note>Letter to Crofts signed : H. Wilmot.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hull (England) --  History --  Early works to 1800.</term>
+               <term>York (England) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112894:1" rendition="simple:additions"/>
+            <p>THE LAST NEVVES FROM YORKE AND HVLL.</p>
+            <p>
+               <hi>OR</hi> A true Relation of all the paſſages and other Occurrences that hath happened in and about the City of <hi>Yorke,</hi> and the Towne of Hull from the twenty ſixth of <hi>Iune,</hi> to the third of <hi>Iuly.</hi> Being the Copy of a Letter ſent from a Merchant of York, to a private friend in <hi>London,</hi> the fourth of <hi>Iuly.</hi> 1642.</p>
+            <p>AS ALSO The execution of a <hi>Jeſuite</hi> at <hi>Yorke,</hi> by the Kings Command. And the Copie of a Letter ſent to Maſter <hi>William Crofts</hi> at the <hi>Hague,</hi> intercepted by a Ship in Service under His Majeſtie.</p>
+            <p>Hen. Elſyng. Cler. Parl.</p>
+            <p>London, Printed fo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>M.T. Iuly</hi> 7. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:112894:2"/>
+            <pb facs="tcp:112894:2"/>
+            <head>THE LAST NEWES FROM YORKE and H<g ref="char:V">Ʋ</g>LL, July the firſt, 1642.</head>
+            <opener>
+               <salute>Worthy Sir</salute>
+            </opener>
+            <p>ACcording to my ingagements, and promiſe to you laſt in <hi>London,</hi> I have ſent you the la<g ref="char:EOLhyphen"/>teſt Occurrences and moſt Remarkeable paſ<g ref="char:EOLhyphen"/>ſages that hath happened in the North, ſince my comeing thither, which was upon Fryday, <hi>Iune</hi> 24. whereof, I ſhall impart to you, nothing but what I have had from good Information and intelligence; And likewiſe what J was an eye witneſſe of.</p>
+            <p>Upon SATTERDAY, <hi>Iune</hi> 25. I did accom<g ref="char:EOLhyphen"/>modate one Captaine Forſter a Scotch-man (with whom I was very converſant) in one dayes Iourny to Hull, who was to ſee ſome goods and other Mar<g ref="char:EOLhyphen"/>chandizes (which he brought out of the weſt Indies to London, and from thence was tranſported by
+<pb facs="tcp:112894:3"/>
+Shipping to Hull) to be Conveyed to <hi>Yorke:</hi> But when we came at the gates of <hi>Hull,</hi> Sir <hi>Iohn Hotham</hi> and Sir <hi>Iohn Meldrone,</hi> and <hi>Captaine Moyer,</hi> Cap<g ref="char:EOLhyphen"/>taine of the Hercules, one of the Shipps which rides before <hi>Hull,</hi> and now in the Kings ſervice, examined us, but would not give us admittance into the Towne; Whereupon we walked about the Walls to veiw the ſcituation thereof, which was all the be<g ref="char:EOLhyphen"/>nefit, and courtiſie we received; And when we came to the Harbour, upon the north ſide of the Towne, where all their Shipping lyes, there was above 200. Souldiers at worke, caſting up of Earth, and make<g ref="char:EOLhyphen"/>ing Batteries on both ſides the Harboure; Upon which was placed 4 peeces of Ordinance, for the defence of the Towne, we makeing ſome ſmall ſtay before that place, one Serjeant Major <hi>Gifford,</hi> with 20. Musketiers, came with a command to ſee us de<g ref="char:EOLhyphen"/>part away.</p>
+            <p>Upon Saterday, <hi>Iune</hi> 25. we mett a Poſt within two Miles of <hi>Hull,</hi> with 3 Proclamations from the King, to be Proclaimed at the Gates of <hi>Hull;</hi> But he was oppoſed by Sir <hi>Iohn Hotham,</hi> and not ſuffered to publiſh them, whereupon the Meſſenger left them at the Gattes of Hull, and ſo departed.</p>
+            <p>Munday, the 27. of Iune, we returned againe to <hi>YORKE,</hi> and that Morning the Lord Marqueſſe <hi>Hamilton</hi> tooke his Journey towards <hi>Scotland;</hi> The ſame day was a Ieſuite executed, and his Quarters ſet upon the Gattes of the City; This day alſo was a great combuſtion at the Court Gate, betwixt 5. Souldiers, and 2. Cavalyers, in which one of the Souldiers had his hand cut off, and yet theſe Cava<g ref="char:EOLhyphen"/>liers eſcaped without any interruption.</p>
+            <p>
+               <pb facs="tcp:112894:3"/>Tueſday, 28. of <hi>Iune,</hi> Newes came to <hi>Yorke,</hi> that my Lord of <hi>Newcaſtle,</hi> and Captaine <hi>Leg,</hi> was received into Newcaſtle, and my Lord was made Go<g ref="char:EOLhyphen"/>vernour of it. Likewiſe a report came to the King from <hi>Leeceſter,</hi> That the Major of the Towne refuſed to obey the Lord <hi>Stamford,</hi> who came with and Or<g ref="char:EOLhyphen"/>der from the Parliament, to put that County into a Poſture of defence, but admitted of one Maſter <hi>Ha<g ref="char:EOLhyphen"/>ſtings,</hi> who came with a command from his Majeſty.</p>
+            <p>This day a command was ſent from the King and Councell to the Sheriffe of this County, for raiſing of 3 Troops of Horſe, beſides what they was for<g ref="char:EOLhyphen"/>merly to raiſe.</p>
+            <p>Wedneſday being the Faſt day, was but ſlen<g ref="char:EOLhyphen"/>derly kept in this City, for markets was kept, as at o<g ref="char:EOLhyphen"/>ther times, neither was there aboue 4. Sermons by report Preached that day in the City, and one of them was at the Minſter, where my Lord Keepers Chaplaine did preach, th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> King, Prince, and Palſ<g ref="char:EOLhyphen"/>graue, with the Nobility being preſent, came in great State that day to the Sermon there.</p>
+            <p>This night was a great hubbub in the City by the Souldiers, who was remoued from their Quarter, to be Billetted in another part of the City, which the Citizens r<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fuſed to entertaine; Whereupon the Lord Major went to the King about it, yet Never<g ref="char:EOLhyphen"/>theleſſe the Souldiers was not received by them, but was ſent backe to their old Quarters againe.</p>
+            <p>Thurſday, <hi>Iune</hi> 30, about eight of the clocke in the morning, I met one Maſter <hi>Murrey,</hi> a Kinſeman to that <hi>Murry</hi> of the bed Chamber, walkeing in Sir <hi>Arthur Ingrams</hi> Garden, at whoſe Houſe, his Ma<g ref="char:EOLhyphen"/>jeſty keeps his Court; after our walking a quarter
+<pb facs="tcp:112894:4"/>
+of an hower together, the King came into the Gar<g ref="char:EOLhyphen"/>den, and my Lord <hi>Faulkland</hi> with him, where the King and my Lord, walked together aboue halfe an hower; At his returne to dinner, newes was brought that a Letter was come to his Majeſty from the Par<g ref="char:EOLhyphen"/>liament, wherein was ſpecified the deſires that they would have granted, and what they would grant to him; Wherevpon a Gentleman made a Speech to his Majeſty, wiſhing him not to truſt them; what was his name I cannot learne yet.</p>
+            <p>Heare is a great concourſe of <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eople, both Lords, Knights, and Gentlemen; There was in the Kings preſence this day walkeing in the Gardens above 300. Courtiers, moſt of them Cavaliers, beſides here is a great number of Souldiers in all parts of this Ci<g ref="char:EOLhyphen"/>ty, and maintained at the charge, who belch out ſc<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>al<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>us wordes againſt the Parliament, and ſticke not to ſay, they hope ſhortly to imbrue their handes in the blood of all thoſe that favours the Parliament.</p>
+            <p>Friday morning being the firſt of<hi> Iuly,</hi> Newes was brought to Yorke, that my Lord <hi>Fairefax</hi> had <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n of his Horſe, and is dangerouſly hurt. This day the Kings anſwer to the 19 Propoſitions of both Houſes of P<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rliam<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt, came out in print, The King hath made ſome Propoſitions to the Parliament, to ad<g ref="char:EOLhyphen"/>iourne it to <hi>Yorke, Wincheſter, Briſtol, Nottingham, Oxford, Cov<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ntry,</hi> or any other pl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce, but he will not come at <hi>London</hi> the troubles and feares of this City and County is very great. I pray God in his good time remove. And let it be the prayers of all good People, that ther<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> may be a happy Vnity betwixt the King and Parliament; And that the diſtractions of this Kingdome may end in Peace.</p>
+            <p>
+               <pb facs="tcp:112894:4"/>Thus much have I ſatisfied you, of what hath paſ<g ref="char:EOLhyphen"/>ſed in all theſe parts, and till the next oppertunity, I reſt.</p>
+            <closer>
+               <signed>Your Aſſured Freind T. H.</signed>
+               <dateline>Yorke <date>the firſt of Iuly, 1642.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>A COPPY OF MASTER <hi>HENRY Wilmots</hi> Letter to Mr. <hi>William Crofts</hi> at the <hi>Hague,</hi> intercepted at Sea by one of the Ships in His Maieſties ſervice; and ſent up to the Lord Admirall, and was delivered to the Com<g ref="char:EOLhyphen"/>mons by the Lords at a conference of both Houſes.</head>
+            <p>AMongſt other Evidences of the diſpoſition and deſignes of thoſe in credit about the King and Queene, a letter was intercepted at Sea by one of the Ships now in his Maieſties ſer<g ref="char:EOLhyphen"/>vice, and ſent up to the Lord Admirall, was delive<g ref="char:EOLhyphen"/>red to the Commons, by the Lords, at a Confe<g ref="char:EOLhyphen"/>rence of both Houſes, which was dated the two and twentith of <hi>Iune,</hi> from <hi>Yorke,</hi> written by Mr. <hi>Henry Wilmot,</hi> one of thoſe who were privie to the Conſpi<g ref="char:EOLhyphen"/>racy of Mr. <hi>Iermin</hi> and others, about bringing up the Army the laſt yeare: and directed to Mr. <hi>William Crofts</hi> a ſervant of the Queens. By this Letter it ap<g ref="char:EOLhyphen"/>peares, that they have had often conferences of di<g ref="char:EOLhyphen"/>viding the eſtates of the Parliament men, and that this is the uſe they intend to make of the Forces rai<g ref="char:EOLhyphen"/>ſed by his Maieſty: And that they are grown ſo bold upon His Protection, as to vilifie and deride the
+<pb facs="tcp:112894:5"/>
+Parliament, and not onely to contemn their ſ<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>mons, but ſhamefully to abuſe then Meſſenger with violence and ſcorn. Which Lett<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r followeth in theſe words.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>For Mr. <hi>Crofts</hi> at the <hi>Hague.</hi>
+                  </head>
+                  <opener>
+                     <salute>Deare <hi>Will.</hi>
+                     </salute>
+                  </opener>
+                  <p>BY theſe laſt Letters to the Queen, you will find a great alteration of buſineſſe h<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>re: the King that very lately appeared almoſt abandoned by all his Subiects, is now become the Favourite of the King<g ref="char:EOLhyphen"/>dome: yet I bele<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ve his Enemie<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> are not ſo neglec<g ref="char:EOLhyphen"/>ted as not to bee able to raiſe an Army to oppoſe Him: and indeed h<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>re lies t<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e ieſt, for they will bee followed iuſt <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nough to forfe<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t their Eſtates, which I have heard you often ſ<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>, were better beſtowed on ſome of us. Yeſterday there came a Meſſenger from the Hou<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e, who had Order, and d<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d raiſe th<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> pow<g ref="char:EOLhyphen"/>er of the County) to intreat <hi>Bartly, Aſhburnham,</hi> and my ſelfe, to come to ſpeake to the Houſe: but the King gave the Meſſenger a ſhort Anſwer, and an Officer or two gave him a ſhort Cudgell, ſo hee is returned to <hi>London</hi> (a fine Gentleman) with his Arme in a Scar<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e<g ref="char:punc">▪</g> De<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>re <hi>Will,</hi> preſerve me in your good opinion, for I aſſure you I am.</p>
+                  <closer>
+                     <dateline>
+                        <date>Iune 22. Yorke 1642.</date>
+                     </dateline>
+                     <signed>Your affectionate humble ſervant, <hi>H. Wilmot.</hi>
+                     </signed>
+                  </closer>
+                  <postscript>
+                     <p>Pray if M. <hi>Iermin</hi> be with you, preſent my moſt humble ſervice to him.</p>
+                     <closer>
+                        <signed>H. Elſynge Cler. Parl. de Com.</signed>
+                     </closer>
+                  </postscript>
+               </body>
+            </floatingText>
+         </div>
+      </body>
+   </text>
+</TEI>
